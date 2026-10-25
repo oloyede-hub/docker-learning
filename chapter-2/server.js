@@ -10,5 +10,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(PORT, "0.0.0.0", () => {
-  console.log(`App runing on port ${PORT}`);
+  console.log(`Docker is becoming easier and App runing on port ${PORT}`);
 });
